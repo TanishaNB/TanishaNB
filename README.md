@@ -7,8 +7,13 @@
     <a href="https://www.linkedin.com/in/n-b-tanisha-a6b664317/"><img alt="Tanisha on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
     <a href="https://github.com/TanishaNB?tab=repositories"><img alt="Explore Tanisha's repositories" src="https://img.shields.io/badge/GitHub-Repositories-1F2937?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   </p>
-  <p><strong>94% mAP@0.5</strong> in production computer vision &nbsp;•&nbsp; <strong>30% fewer</strong> failed pipeline runs &nbsp;•&nbsp; <strong>Top 2%</strong> national buildathon finalist</p>
-</div><hr /><img align="right" width="175" alt="Animated illustration of a woman coding at a laptop" src="https://assets-v2.lottiefiles.com/a/458d0d44-b3f5-11ef-81e5-b3aaf78d12e9/ZP2JDD4p6K.gif" /><h2>About me</h2>
+</div><h2>Leadership</h2>
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>Vice Chair</strong><br />IEEE Women in Engineering Chapter<br />Manipal Bengaluru</td>
+    <td width="50%" align="center"><strong>General Secretary</strong><br />IEEE Computer Society Chapter<br />Manipal Bengaluru</td>
+  </tr>
+</table><hr /><img align="right" width="175" alt="Animated illustration of a woman coding at a laptop" src="https://assets-v2.lottiefiles.com/a/458d0d44-b3f5-11ef-81e5-b3aaf78d12e9/ZP2JDD4p6K.gif" /><h2>About me</h2>
 <p>I'm Tanisha, a third-year B.Tech Information Technology student at Manipal Institute of Technology, Bengaluru. I build ML-backed services and practical software, from a production KYC masking pipeline to security testing and scam-intelligence tools. I enjoy connecting models, APIs, data, and interfaces into working systems.</p>
 <p>My current interests are <strong>computer vision, backend engineering, agentic AI, and applied security</strong>.</p>
 <br clear="all" /><h2>💼 Experience</h2>
@@ -79,13 +84,12 @@
     </td>
   </tr>
 </table>
-<p><strong>Also exploring:</strong> Smart Patient Queue Management using an OS-style scheduler with NEWS2 and SOFA metrics; Binarily Augmented Retro Framing research ideation and technical analysis with the Manipal Bangalore Open Source Community.</p><h2>🏆 Recognition and leadership</h2>
+<p><strong>Also exploring:</strong> Smart Patient Queue Management using an OS-style scheduler with NEWS2 and SOFA metrics; Binarily Augmented Retro Framing research ideation and technical analysis with the Manipal Bangalore Open Source Community.</p><h2>🏆 Recognition</h2>
 <ul>
   <li><strong>Top 2% national finalist</strong> · India AI Impact Buildathon</li>
   <li><strong>Top 10 of 250 teams</strong> · HackSpace Hackathon, in collaboration with Honeywell Technologies</li>
   <li><strong>Top 20</strong> · Hackverse 2.0, in collaboration with IBM and Celonis</li>
   <li><strong>7th place</strong> · Capture the Flag, Tech Solstice '26</li>
-  <li><strong>Vice Chair</strong>, IEEE Women in Engineering · <strong>General Secretary</strong>, IEEE Computer Society Chapter, Manipal Bengaluru</li>
 </ul><h2>🧰 Technical toolkit</h2>
 <table>
   <tr><th>Area</th><th>Tools and methods</th></tr>
