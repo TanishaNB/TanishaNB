@@ -7,13 +7,7 @@
     <a href="https://www.linkedin.com/in/n-b-tanisha-a6b664317/"><img alt="Tanisha on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
     <a href="https://github.com/TanishaNB?tab=repositories"><img alt="Explore Tanisha's repositories" src="https://img.shields.io/badge/GitHub-Repositories-1F2937?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   </p>
-</div><h2>Leadership</h2>
-<table>
-  <tr>
-    <td width="50%" align="center"><strong>Vice Chair</strong><br />IEEE Women in Engineering Chapter<br />Manipal Bengaluru</td>
-    <td width="50%" align="center"><strong>General Secretary</strong><br />IEEE Computer Society Chapter<br />Manipal Bengaluru</td>
-  </tr>
-</table><hr /><img align="right" width="175" alt="Animated illustration of a woman coding at a laptop" src="https://assets-v2.lottiefiles.com/a/458d0d44-b3f5-11ef-81e5-b3aaf78d12e9/ZP2JDD4p6K.gif" /><h2>About me</h2>
+</div><hr /><img align="right" width="175" alt="Animated illustration of a woman coding at a laptop" src="https://assets-v2.lottiefiles.com/a/458d0d44-b3f5-11ef-81e5-b3aaf78d12e9/ZP2JDD4p6K.gif" /><h2>About me</h2>
 <p>I'm Tanisha, a third-year B.Tech Information Technology student at Manipal Institute of Technology, Bengaluru. I build ML-backed services and practical software, from a production KYC masking pipeline to security testing and scam-intelligence tools. I enjoy connecting models, APIs, data, and interfaces into working systems.</p>
 <p>My current interests are <strong>computer vision, backend engineering, agentic AI, and applied security</strong>.</p>
 <br clear="all" /><h2>💼 Experience</h2>
@@ -97,6 +91,12 @@
   <tr><td><strong>Backend and data</strong></td><td>FastAPI · REST APIs · PostgreSQL · MySQL · Docker · microservices · Netflix Conductor</td></tr>
   <tr><td><strong>ML and AI</strong></td><td>YOLOv8 · regression and ensemble models · XGBoost/LightGBM · RAG · agentic systems</td></tr>
   <tr><td><strong>Frontend and security</strong></td><td>React · Vite · OWASP ZAP · BOLA/IDOR testing · intrusion detection</td></tr>
+</table><h2>Leadership</h2>
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>Vice Chair</strong><br />IEEE Women in Engineering Chapter<br />Manipal Bengaluru</td>
+    <td width="50%" align="center"><strong>General Secretary</strong><br />IEEE Computer Society Chapter<br />Manipal Bengaluru</td>
+  </tr>
 </table><h2>🎓 Education</h2>
 <p><strong>B.Tech in Information Technology</strong> · Manipal Institute of Technology, Bengaluru · 2024–present<br />
 Relevant coursework: Data Structures, Algorithms, Operating Systems, Database Systems, Computer Networks, Probability and Optimization, Information Security.</p><hr />
